@@ -550,7 +550,7 @@ msgstr "助けのための管理を依頼"
 msgid "You asked an admin for help"
 msgstr "あなたは助けのために管理者を尋ねました"
 
-msgid "Reopen cette suggestion"
+msgid "Reopen this suggestion"
 msgstr "この提案を再度開きます"
 
 msgid "This work belongs to this cluster:"
